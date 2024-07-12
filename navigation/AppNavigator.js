@@ -13,7 +13,7 @@ export default function AppNavigator() {
     <NavigationContainer>
       <Drawer.Navigator drawerContent={(props) => <DrawerMenu {...props} />}>
         <Drawer.Screen name="Home" component={HomeScreen} options={{ headerShown: false }}/>
-        <Drawer.Screen name="Checkout" component={CheckoutScreen} options={{ headerShown: false }}/>
+        <Drawer.Screen name="Check out" component={CheckoutScreen} options={{ headerShown: false }}/>
         <Drawer.Screen name="ProductDetail" component={ProductDetailScreen} options={{ headerShown: false }}/>
       </Drawer.Navigator>
     </NavigationContainer>
