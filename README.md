@@ -26,6 +26,27 @@
                                  This ensures the cart is always up-to-date and the changes persist.
    ## Screenshots of the app
    ![WhatsApp Image 2024-07-12 at 8 25 10 PM](https://github.com/user-attachments/assets/6380e44a-cb34-4dc5-ac20-c61d7cc79e99)       ![WhatsApp Image 2024-07-12 at 8 25 12 PM](https://github.com/user-attachments/assets/06c4bbce-d364-4c64-b747-8427a269938e)
+   
+   ![WhatsApp Image 2024-07-12 at 8 25 13 PM](https://github.com/user-attachments/assets/55c104ba-b0b8-49f3-b977-fe96fb577058)       ![WhatsApp Image 2024-07-12 at 8 25 14 PM](https://github.com/user-attachments/assets/6b3c41cb-bb68-45d6-839a-e2b4c33c7893)
+
+ 
+
+   ![WhatsApp Image 2024-07-12 at 8 25 16 PM](https://github.com/user-attachments/assets/5256205f-b6ed-4747-83d6-3179b4639411)       ![WhatsApp Image 2024-07-12 at 8 25 16 PM (1)](https://github.com/user-attachments/assets/17cadaa4-3b00-4465-a834-e061dd8c6b20)
+
+
+
+
+   Navigation Screen
+   ![WhatsApp Image 2024-07-12 at 11 35 11 PM](https://github.com/user-attachments/assets/d8d78ad7-1c65-434a-81f7-ce19ef0d0031)
+   
+   Carts screen
+   ![WhatsApp Image 2024-07-12 at 11 33 42 PM](https://github.com/user-attachments/assets/c50645cb-f8ff-4cce-8265-d7eac9b555d6)
+
+
+
+Product detail screen
+   ![WhatsApp Image 2024-07-12 at 11 33 42 PM (1)](https://github.com/user-attachments/assets/ff6da3dc-6801-487c-808e-7ab5f4d6221f)
+
 
 
 
